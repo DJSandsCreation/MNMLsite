@@ -1,2 +1,2 @@
 # MNMLsite
-a minimal site created using HTML &amp; CSS
+a minimal site created using HTML5 and CSS3
